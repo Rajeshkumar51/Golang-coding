@@ -1,0 +1,5 @@
+ERROR: Authentication failure
+ERROR: Failed to connect to database
+ERROR: Disk space low
+ERROR: Invalid token received
+ERROR: Timeout occurred while processing request

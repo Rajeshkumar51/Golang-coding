@@ -1,0 +1,4 @@
+INFO: User login detected
+ERROR: Authentication failure
+INFO: Session expired
+ERROR: Invalid token received
